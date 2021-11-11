@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/victory-industries-site/static/css/main.db0c5476.chunk.css",
-    "main.js": "/victory-industries-site/static/js/main.bff85c46.chunk.js",
-    "main.js.map": "/victory-industries-site/static/js/main.bff85c46.chunk.js.map",
-    "runtime-main.js": "/victory-industries-site/static/js/runtime-main.b05474f3.js",
-    "runtime-main.js.map": "/victory-industries-site/static/js/runtime-main.b05474f3.js.map",
-    "static/js/2.6fed763a.chunk.js": "/victory-industries-site/static/js/2.6fed763a.chunk.js",
-    "static/js/2.6fed763a.chunk.js.map": "/victory-industries-site/static/js/2.6fed763a.chunk.js.map",
-    "static/js/3.98ba8e41.chunk.js": "/victory-industries-site/static/js/3.98ba8e41.chunk.js",
-    "static/js/3.98ba8e41.chunk.js.map": "/victory-industries-site/static/js/3.98ba8e41.chunk.js.map",
-    "index.html": "/victory-industries-site/index.html",
-    "static/css/main.db0c5476.chunk.css.map": "/victory-industries-site/static/css/main.db0c5476.chunk.css.map",
-    "static/js/2.6fed763a.chunk.js.LICENSE.txt": "/victory-industries-site/static/js/2.6fed763a.chunk.js.LICENSE.txt",
-    "static/media/Main.css": "/victory-industries-site/static/media/main-poster.f2cfa46a.jpeg"
+    "main.css": "/static/css/main.af232910.chunk.css",
+    "main.js": "/static/js/main.bff85c46.chunk.js",
+    "main.js.map": "/static/js/main.bff85c46.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.94a14499.js",
+    "runtime-main.js.map": "/static/js/runtime-main.94a14499.js.map",
+    "static/js/2.6fed763a.chunk.js": "/static/js/2.6fed763a.chunk.js",
+    "static/js/2.6fed763a.chunk.js.map": "/static/js/2.6fed763a.chunk.js.map",
+    "static/js/3.98ba8e41.chunk.js": "/static/js/3.98ba8e41.chunk.js",
+    "static/js/3.98ba8e41.chunk.js.map": "/static/js/3.98ba8e41.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.af232910.chunk.css.map": "/static/css/main.af232910.chunk.css.map",
+    "static/js/2.6fed763a.chunk.js.LICENSE.txt": "/static/js/2.6fed763a.chunk.js.LICENSE.txt",
+    "static/media/Main.css": "/static/media/main-poster.f2cfa46a.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b05474f3.js",
+    "static/js/runtime-main.94a14499.js",
     "static/js/2.6fed763a.chunk.js",
-    "static/css/main.db0c5476.chunk.css",
+    "static/css/main.af232910.chunk.css",
     "static/js/main.bff85c46.chunk.js"
   ]
 }
