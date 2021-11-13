@@ -1,0 +1,42 @@
+#contact {
+  position: relative;
+  height: 50vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 28px;
+}
+.contact-details {
+  margin: 10px;
+}
+.contact-details a {
+  display: block;
+  text-decoration: none;
+  color: black;
+  padding-block: 10px;
+}
+.contact-details i {
+  color: green;
+  margin: 5px 15px;
+}
+.contact-logo {
+  height: 250px;
+  width: 250px;
+  object-fit: contain;
+  margin: 10px;
+}
+.contact-logo img {
+  height: auto;
+  width: 100%;
+}
+.trademark {
+  width: 100vw;
+  font-size: large;
+  background-color: #333333;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 8vh;
+}
