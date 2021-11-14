@@ -1,30 +1,31 @@
 #contact {
   position: relative;
-  height: 50vh;
+  min-height: 50vh;
   width: 100vw;
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
-  justify-content: space-between;
-  font-size: 28px;
+  font-size: 24px;
 }
 .contact-details {
   margin: 10px;
+  flex-grow: 1;
 }
 .contact-details a {
   display: block;
   text-decoration: none;
   color: black;
   padding-block: 10px;
+  overflow: hidden;
 }
 .contact-details i {
   color: green;
   margin: 5px 15px;
 }
-.contact-logo {
-  height: 250px;
-  width: 250px;
-  object-fit: contain;
-  margin: 10px;
+.contact-map {
+  flex-grow: 1;
+  height: 300px;
+  padding: 10px;
 }
 .contact-logo img {
   height: auto;
@@ -39,4 +40,9 @@
   align-items: center;
   justify-content: space-between;
   height: 8vh;
+}
+@media screen and (max-width: 600px) {
+  #contact {
+    font-size: 14px;
+  }
 }
