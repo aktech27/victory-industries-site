@@ -1,16 +1,18 @@
 import Logo from "../assets/logo.png";
-import Logo1 from "../assets/main-poster.jpeg";
+import Pic1 from "../assets/Din-plain.jpg";
+import Pic2 from "../assets/Din-Slotted.jpg";
+import Pic3 from "../assets/TB.jpg";
 import Product from "./Product";
 import "./Products.css";
 const Products = () => {
   let productsArray = [
-    { name: "Product 1", image: Logo },
-    { name: "Product 2", image: Logo1 },
-    { name: "Product 3", image: Logo },
-    { name: "Product 4", image: Logo1 },
-    { name: "Product 5", image: Logo },
-    { name: "Product 6", image: Logo1 },
-    { name: "Product 7", image: Logo },
+    { name: "DIN RAIL 35mm CHANNEL-1mt-plain", image: Pic1 },
+    { name: "DIN RAIL 35mm CHANNEL-1mt-slotted", image: Pic2 },
+    { name: "T.B. CHANNEL - 1 meter", image: Pic3 },
+    { name: "GRILL PIECE", image: Logo },
+    { name: "GPCOIL=0.80 SLIT COIL", image: Logo },
+    { name: "DEFECTIVE EG SLIT COILS", image: Logo },
+    { name: "MS FLANGE 170x127.5x0.8mm", image: Logo },
   ];
   return (
     <section id="products">
