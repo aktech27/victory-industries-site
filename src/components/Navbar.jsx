@@ -6,8 +6,9 @@ const Navbar = () => {
       <a href="#home">
         <img src={Logo} alt="home" />
       </a>
-      <a href="#products">Products</a>
       <a href="#about">About</a>
+      <a href="#products">Products</a>
+      <a href="#gallery">Gallery</a>
       <a href="#contact">Contact</a>
       <span
         className="icon"

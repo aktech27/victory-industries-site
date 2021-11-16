@@ -1,5 +1,4 @@
 import "./Contact.css";
-import Logo from "../assets/logo.png";
 const Contact = () => {
   return (
     <div style={{ display: "flex", flexDirection: "column" }}>
