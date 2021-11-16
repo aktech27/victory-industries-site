@@ -1,0 +1,28 @@
+#about {
+  width: 100vw;
+  display: flex;
+  align-items: center;
+}
+.info-container {
+  max-width: 60%;
+  flex-grow: 1;
+  font-size: 2em;
+  line-height: 2em;
+  padding-left: 10px;
+}
+.dp-container {
+  flex-grow: 1;
+  object-fit: contain;
+}
+.dp-container img {
+  width: 100%;
+  height: auto;
+}
+@media screen and (max-width: 800px) {
+  #about {
+    flex-wrap: wrap;
+  }
+  .info-container {
+    max-width: 100%;
+  }
+}
