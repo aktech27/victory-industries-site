@@ -31,7 +31,7 @@ const Contact = () => {
       </footer>
       <section className="trademark">
         <div></div>
-        <div>&copy; 2021 victoryindustry.in</div>
+        <div>&copy; 2025 victory-industries.in</div>
         <div></div>
       </section>
     </div>

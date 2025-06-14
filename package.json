@@ -1,5 +1,5 @@
 {
-  "homepage": "https://www.victoryindustry.in",
+  "homepage": "https://www.victory-industries.in",
   "name": "website",
   "version": "0.1.0",
   "private": false,
@@ -18,7 +18,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build --cname www.victory-industries.in"
   },
   "eslintConfig": {
     "extends": [
