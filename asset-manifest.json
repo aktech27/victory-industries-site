@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.aea87ff3.chunk.css",
-    "main.js": "/static/js/main.3408b26b.chunk.js",
-    "main.js.map": "/static/js/main.3408b26b.chunk.js.map",
+    "main.css": "/static/css/main.b3aafeb8.chunk.css",
+    "main.js": "/static/js/main.a911cbba.chunk.js",
+    "main.js.map": "/static/js/main.a911cbba.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a4d09849.js",
     "runtime-main.js.map": "/static/js/runtime-main.a4d09849.js.map",
     "static/js/2.957f745c.chunk.js": "/static/js/2.957f745c.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.d0662a6a.chunk.js": "/static/js/3.d0662a6a.chunk.js",
     "static/js/3.d0662a6a.chunk.js.map": "/static/js/3.d0662a6a.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.aea87ff3.chunk.css.map": "/static/css/main.aea87ff3.chunk.css.map",
+    "static/css/main.b3aafeb8.chunk.css.map": "/static/css/main.b3aafeb8.chunk.css.map",
     "static/js/2.957f745c.chunk.js.LICENSE.txt": "/static/js/2.957f745c.chunk.js.LICENSE.txt",
     "static/media/Din-Slotted.71b0d437.jpg": "/static/media/Din-Slotted.71b0d437.jpg",
     "static/media/Din-plain.d337cb67.jpg": "/static/media/Din-plain.d337cb67.jpg",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.a4d09849.js",
     "static/js/2.957f745c.chunk.js",
-    "static/css/main.aea87ff3.chunk.css",
-    "static/js/main.3408b26b.chunk.js"
+    "static/css/main.b3aafeb8.chunk.css",
+    "static/js/main.a911cbba.chunk.js"
   ]
 }
